@@ -1,0 +1,2 @@
+def mysort(input):
+    pass
